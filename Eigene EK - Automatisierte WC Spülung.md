@@ -72,7 +72,3 @@ void loop() {
 }
 
 ```
-
-#### Schaltbild
-
-![](C:\Users\timon\AppData\Roaming\marktext\images\2024-05-25-17-49-11-image.png)
